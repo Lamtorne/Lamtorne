@@ -8,13 +8,21 @@
   
 </details>
 
-<details>
+<details open>
   <summary>
     <b>Русский</b>
   </summary>
   <p>Добро пожаловать. Я фроненд разработчик и в настоящий момент студент университета ИТМО. Это мой личный Github профиль, а также портфолио. Ниже я выделил несколько проектов, однако вы также можете посмотреть все <a href="https://github.com/Lamtorne?tab=repositories">репозитории</a>.</p>
 
 </details>
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&color=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&color=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&color=black)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&color=black)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&color=black)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&color=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&color=black)
 <table>
   <thead>
     <tr>
